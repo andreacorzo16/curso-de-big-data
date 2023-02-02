@@ -16,3 +16,9 @@ Aqui se realiza un analisis exploratorio de los datos de Space X para extraer al
 #Notebook: SpaceX - 3 -EDA Using SQL.
 En esta práctica se han subido los datos a una base de datos de SQL y se han realizado una serie de queries sobre dichos datos.
 
+# Día 3. Miercoles
+# Notebook de de Prophet
+En este documento se han realizado ejercicios para realizar un modelo predictivo con Prophet sobre las acciones del banco BNP Paribas SA.
+# Notebook: Introducción a Machine Learning con Scikit-Learn
+# Notebook: p´racticas de Folium
+En este notebook se han creado distintos mapas interactivos mediante la librería llamada Folium, con el objetivo de visualizar datos geoespaciales sobre distintos datos.
